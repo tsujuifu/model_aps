@@ -6,7 +6,7 @@ Models of APS
 <img src='imgs/aps.png' width='60%' />
 
 ## Usage
-Please use code in [R2R](https://github.com/peteanderson80/Matterport3DSimulator) and [Speaker-Follower](https://github.com/ronghanghu/speaker_follower)
+Please apply code in [R2R](https://github.com/peteanderson80/Matterport3DSimulator) and [Speaker-Follower](https://github.com/ronghanghu/speaker_follower)
 + [Model](https://drive.google.com/drive/folders/1dV_KHTFNt7Qs1CpxUe3JK2LY7ZuFG05D?usp=sharing)
 
 ## Citation
