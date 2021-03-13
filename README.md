@@ -1,7 +1,7 @@
 # [ECCV'20 (spotlight)] Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler
 Models of APS
 
-[Paper](https://tsujuifu.github.io/pubs/eccv20_aps.pdf) | [Video](https://youtu.be/eCPtNWDe2RQ)
+[Paper](https://tsujuifu.github.io/pubs/eccv20_aps.pdf) | [Slide](https://tsujuifu.github.io/slides/eccv20_aps.pdf) | [Video](https://youtu.be/eCPtNWDe2RQ)
 
 <img src='imgs/aps.png' width='60%' />
 
