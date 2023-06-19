@@ -17,7 +17,7 @@ Please apply code in [R2R](https://github.com/peteanderson80/Matterport3DSimulat
 ```
 @inproceedings{fu2020aps, 
   author = {Tsu-Jui Fu and Xin Eric Wang and Matthew Peterson and Scott Grafton and Miguel Eckstein and William Yang Wang}, 
-  title = {Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler}, 
+  title = {{Counterfactual Vision-and-Language Navigation via Adversarial Path Sampler}}, 
   booktitle = {European Conference on Computer Vision (ECCV)}, 
   year = {2020} 
 }
